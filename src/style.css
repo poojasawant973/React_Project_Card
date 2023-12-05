@@ -1,0 +1,17 @@
+.card {
+    margin-top: 50px;
+}
+
+.card-footer {
+    background-color: bisque;
+}
+
+.card-body {
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
